@@ -1,0 +1,30 @@
+commit 9edcba7f14fee5f30eec8885c82a1c394e8aba39
+Merge: 0aa29d7 78c989d
+Author: sangyeol.park <sangyeol.park@lge.com>
+Date:   Fri Feb 23 23:27:26 2024 +0900
+
+    merge done
+
+commit 78c989d22ecffe810f502b1457bfc178aadee789
+Author: sangyeol.park <sangyeol.park@lge.com>
+Date:   Fri Feb 23 23:19:08 2024 +0900
+
+    dev_cal c file
+
+commit 0aa29d79096065a8d764f744e04625802bb92c7a
+Author: sangyeol.park <sangyeol.park@lge.com>
+Date:   Fri Feb 23 23:15:08 2024 +0900
+
+    2nd edit
+
+commit 2aee2809ca70012437438cc78e0d23935d03e998
+Author: sangyeol.park <sangyeol.park@lge.com>
+Date:   Fri Feb 23 22:59:22 2024 +0900
+
+    first dev commit
+
+commit dc0334462810a2d5c3fa8363f2992bd5b6ab445c
+Author: 박상열 <home@MacBookAir.local>
+Date:   Fri Feb 23 22:55:54 2024 +0900
+
+    fisrt commit
