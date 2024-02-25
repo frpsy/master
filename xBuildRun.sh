@@ -25,4 +25,6 @@ if [ $? -eq 0 ]; then
     rm "./bin/$filename_no_ext"
 else
     echo "Compilation failed."
+    echo "edit1"
+    echo "edit2"
 fi
