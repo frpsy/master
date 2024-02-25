@@ -22,6 +22,7 @@ if [ $? -eq 0 ]; then
     # Run the executable
     echo "Running $filename_no_ext..."
     "./bin/$filename_no_ext"
+    rm "./bin/$filename_no_ext"
 else
     echo "Compilation failed."
 fi
