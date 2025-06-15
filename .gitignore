@@ -1,6 +1,26 @@
-*.exe
+# Compiled object files
 *.o
 *.out
-bin/
-main
+*.exe
+
+# Libraries
 libmylib.a
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Build directories
+bin/
+output/
+
+# Documentation
+docs/
+latex/
+*.pdf
+*.aux
+
+# Executables
+main
