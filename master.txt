@@ -1,3 +1,0 @@
-this is the master branch
-this is the dev branch
-merge completeabcd!
