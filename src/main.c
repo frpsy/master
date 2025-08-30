@@ -6,10 +6,14 @@
 
 /// @brief Prints a greeting message with the given name.
 /// @param name The name to include in the greeting.
-int greet_with_name(const char *name) {
-    if (name == NULL) {
+int greet_with_name(const char *name)
+{
+    if (name == NULL)
+    {
         printf("Hello, Guest!\n");
-    } else {
+    }
+    else
+    {
         printf("Hello, %s!\n", name);
     }
 
@@ -20,7 +24,8 @@ int greet_with_name(const char *name) {
 
 /// @brief Calls the greet_with_name function with a specific name and a NULL value.
 /// @return Returns 0 on success.
-int call_everything(void) {
+int call_everything(void)
+{
     greet_with_name("hot fix2");
     greet_with_name(NULL);
     return 0;
@@ -28,7 +33,8 @@ int call_everything(void) {
 
 /// @brief Main function that calls the call_everything function.
 /// @return Returns 0 on success.
-int main(void) {
+int main(void)
+{
     call_everything();
     return 0;
 }
