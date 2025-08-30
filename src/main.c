@@ -21,7 +21,7 @@ int greet_with_name(const char *name) {
 /// @brief Calls the greet_with_name function with a specific name and a NULL value.
 /// @return Returns 0 on success.
 int call_everything(void) {
-    greet_with_name("Alice3");
+    greet_with_name("hot fix2");
     greet_with_name(NULL);
     return 0;
 }
