@@ -8,7 +8,7 @@
 /// @param name The name to include in the greeting.
 int greet_with_name(const char *name) {
     if (name == NULL) {
-        printf("Hello, Guest!\n");
+        printf("Hello, Guest2!\n");
     } else {
         printf("Hello, %s!\n", name);
     }
